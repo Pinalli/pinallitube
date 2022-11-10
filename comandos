@@ -1,0 +1,4 @@
+npm install next react react-dom
+npm install
+
+npm install styled-components
